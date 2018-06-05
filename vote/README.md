@@ -14,10 +14,7 @@ Steps to run the python application:
 1. Ensure that **Python 2.7** is installed.
 2. `pip install -r requirements.txt`
 3. `python app.py`
-  - This will give you a permission denied error if you try to run this on your
-    local machine. (This is meant to be run in a docker container).
-  - If you want to test this on your local machine, change line 45 in _app.py_
-    to port=_5000_. Now you can access the application at http://localhost:5000.
+4. The app should now be accessible at `http://localhost:5000`
 
 ## Redis store
 [Redis](https://redis.io/) is used as a queue to store all votes from the Python application. To test
