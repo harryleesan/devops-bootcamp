@@ -9,14 +9,14 @@ Dockerise a Python application to track votes in Redis.
 - This means that you need to create at least one Dockerfile to package the python
   application.
 
-## Python application
-Steps to run the python application:
+## Running the voting app
+Steps to run the application:
 1. Ensure that **Python 2.7** is installed.
 2. `pip install -r requirements.txt`
 3. `python app.py`
 4. The app should now be accessible at `http://localhost:5000`
 
-## Redis store
+## Testing the results in Redis
 [Redis](https://redis.io/) is used as a queue to store all votes from the Python application. To test
 if the Python application is persisting to Redis, follow the below steps.
 1. Vote on the Python application.
