@@ -49,7 +49,7 @@ Ask them to go through the [VAT IT DevOps Overview Documentation](http://vatit-d
 ## Day 2
 Spend no more than **1.5** hours with the candidate.
 
-#### Docker
+### Docker
 Start going through **Docker** with the candidate, check the progress of the candidate in terms of the understanding of Docker. Ask them to complete the _vote_ lab in the devops-bootcamp [repository](https://bitbucket.org/vatit-admin/devops-bootcamp/src/master/).
 
 Set a time with the candidate to go through the task.
@@ -57,7 +57,7 @@ Set a time with the candidate to go through the task.
 ## Day 3
 Spend no more than **1 hour** with the candidate.
 
-#### Jenkins
+### Jenkins
 Ask the candidate to complete the _blog_ lab in the devops-bootcamp [repository](https://bitbucket.org/vatit-admin/devops-bootcamp/src/master/). Go through what is required from them. All they need to do is to add a _Jenkinsfile_ to the repository, there is no need to make changes to the source code.
 
 ## Day 4
