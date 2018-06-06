@@ -1,5 +1,5 @@
 # DevOps Bootcamp
-This bootcamp should span between 3 ~ 5 days depending on the knowledge/competence of the candidate.
+This bootcamp should span between **3 ~ 5** days depending on the knowledge/competence of the candidate. Sessions can be compressed if the candidate is capable.
 
 ## Day 1
 Spend no more than **1 hour** with the candidate.
