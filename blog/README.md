@@ -13,6 +13,8 @@ a blog site (_flaskr_). You can check the README of this project in
   be dependant on software on the host machine except for Docker).
 - At the end of the pipeline, there should be a **Docker** image which is fully
   tested and can run the blog application.
+- The layout of the _Jenkinsfile_ should look similar to [VAT IT Jenkins
+  Guideline](http://vatit-devops-docs.s3-website-eu-west-1.amazonaws.com/jenkins/jenkins_guideline.html).
 
 ## Running the blog app
 Steps to run the application:
