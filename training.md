@@ -2,7 +2,7 @@
 This bootcamp should span between 3 ~ 5 days depending on the knowledge/competence of the candidate.
 
 ## Day 1
-Spend no more than 1 hour with the candidate.
+Spend no more than **1 hour** with the candidate.
 
 ### Introduction
 Talk about the below topics. Try and restrict the conversation to below 30 minutes. You do not want to overload the candidate with information.
@@ -43,8 +43,11 @@ Talk about the Docker -> Jenkins -> Kubernetes pipeline. Talk about what happens
 #### Development Workflow / Project structure
 Talk about the 3 files that are in the root directory of every project (2nd infrastructure type): _Dockerfile_, _Jenkinsfile_ and _Kubernetes deployment.yml_.
 
+Ask them to go through the [VAT IT DevOps Overview Documentation](http://vatit-devops-docs.s3-website-eu-west-1.amazonaws.com/bootcamp/overview.html)
+
+
 ## Day 2
-Spend no more than 1.5 hours with the candidate.
+Spend no more than **1.5** hours with the candidate.
 
 #### Docker
 Start going through **Docker** with the candidate, check the progress of the candidate in terms of the understanding of Docker. Ask them to complete the _vote_ lab in the devops-bootcamp [repository](https://bitbucket.org/vatit-admin/devops-bootcamp/src/master/).
@@ -52,13 +55,13 @@ Start going through **Docker** with the candidate, check the progress of the can
 Set a time with the candidate to go through the task.
 
 ## Day 3
-Spend no more than 1 hour with the candidate.
+Spend no more than **1 hour** with the candidate.
 
 #### Jenkins
 Ask the candidate to complete the _blog_ lab in the devops-bootcamp [repository](https://bitbucket.org/vatit-admin/devops-bootcamp/src/master/). Go through what is required from them. All they need to do is to add a _Jenkinsfile_ to the repository, there is no need to make changes to the source code.
 
 ## Day 4
-Spend no more than 1 hour with the candidate.
+Spend no more than **1 hour** with the candidate.
 
 ### Kubernetes
-Explain the basic concepts of Kubernetes (concepts of the cluster, nodes, pods, containers, deployments, services, namespaces). Ask them to watch [What is Kubernetes?](https://www.youtube.com/watch?v=R-3dfURb2hA). Go through the deployment.yml file with them.
+Explain the basic concepts of Kubernetes (concepts of the cluster, nodes, pods, containers, deployments, services, namespaces). Ask them to watch [What is Kubernetes?](https://www.youtube.com/watch?v=R-3dfURb2hA). Go through the _deployment.yml_ file structure with them.
