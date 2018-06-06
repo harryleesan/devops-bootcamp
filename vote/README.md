@@ -14,7 +14,7 @@ Steps to run the application:
 1. Ensure that **Python 2.7** is installed.
 2. `pip install -r requirements.txt`
 3. `python app.py`
-4. The app should now be accessible at `http://localhost:5000`
+4. The app should now be accessible at `http://localhost:5000`.
 
 ## Testing the results in Redis
 [Redis](https://redis.io/) is used as a queue to store all votes from the Python application. To test

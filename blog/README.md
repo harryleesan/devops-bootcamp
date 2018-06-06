@@ -24,6 +24,7 @@ Steps to run the application:
 4. `export FLASK_ENV development`
 5. `flask init-db`
 6. `flask run --host=0.0.0.0`
+7. The app should now be accessible at `http://localhost:5000`.
 
 ## Running the tests
 1. `pip install '.[test]'`
