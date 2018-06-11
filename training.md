@@ -64,4 +64,5 @@ Ask the candidate to complete the _blog_ lab in the devops-bootcamp [repository]
 Spend no more than **1 hour** with the candidate.
 
 ### Kubernetes
-Explain the basic concepts of Kubernetes (concepts of the cluster, nodes, pods, containers, deployments, services, namespaces). Ask them to watch [What is Kubernetes?](https://www.youtube.com/watch?v=R-3dfURb2hA). Go through the _deployment.yml_ file structure with them.
+Explain the basic concepts of Kubernetes (concepts of the cluster, nodes, pods,
+containers, namespaces, services, deployments, secrets and configmaps). Ask them to watch [What is Kubernetes?](https://www.youtube.com/watch?v=R-3dfURb2hA). Go through the _deployment.yml_ file structure with them.
