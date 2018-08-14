@@ -3,7 +3,7 @@
 ## Introduction
 This is the example [tutorial](http://flask.pocoo.org/docs/1.0/tutorial/) application for **Flask**. This application creates
 a blog site (_flaskr_). You can check the README of this project in
-`README.orig.rst`.
+`README.rst`.
 
 ## Task
 - Dockerise the application.
