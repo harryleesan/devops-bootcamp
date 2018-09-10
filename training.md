@@ -45,6 +45,13 @@ Talk about the 3 files that are in the root directory of every project (2nd infr
 
 Ask them to go through the [VAT IT DevOps Overview Documentation](http://vatit-devops-docs.s3-website-eu-west-1.amazonaws.com/bootcamp/overview.html)
 
+#### Setup
+
+Create users for candidate:
+
+- [ ] AWS IAM
+- [ ] Jenkins
+- [ ] Kibana
 
 ## Day 2
 Spend no more than **1.5** hours with the candidate.
