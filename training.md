@@ -67,6 +67,10 @@ Spend no more than **1 hour** with the candidate.
 ### Jenkins
 Ask the candidate to complete the _blog_ lab in the devops-bootcamp [repository](https://bitbucket.org/vatit-admin/devops-bootcamp/src/master/). Go through what is required from them. All they need to do is to add a _Jenkinsfile_ to the repository, there is no need to make changes to the source code.
 
+#### Setup
+
+1. Create user for candidate.
+
 ## Day 4
 Spend no more than **1 hour** with the candidate.
 
@@ -84,3 +88,8 @@ Draw attention to:
 - ports
 - resources
 - mounts
+
+#### Setup
+
+1. Create user for candidate.
+2. Send candidate link to access Kubernetes dashboard.
