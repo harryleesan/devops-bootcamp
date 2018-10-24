@@ -93,3 +93,18 @@ Draw attention to:
 
 1. Create user for candidate.
 2. Send candidate link to access Kubernetes dashboard.
+
+## Day 5
+Spend no more that **45 minutes** with the candidate.
+
+### Logging and Monitoring
+Explain the basics of the tools that are used. The different environments that
+the tools are deployed in.
+
+- Logging - ELK (Elasticsearch, Logstash, Kibana)
+- Metrics - Prometheus + Grafana
+
+#### Setup
+
+1. Create user for candidate (Kibana).
+2. Send candidate links to access Kibana.
