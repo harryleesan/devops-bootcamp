@@ -108,7 +108,7 @@ the tools are deployed in.
 
 1. Logstash index patterns.
 2. Logstash log retention.
-3. Logtstash deployment and communication.
+3. Logstash deployment and communication.
 4. Kibana basic usage.
 
 #### Monitoring
