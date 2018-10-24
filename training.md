@@ -97,12 +97,25 @@ Draw attention to:
 ## Day 5
 Spend no more that **45 minutes** with the candidate.
 
-### Logging and Monitoring
+### Logging and Monitoring (logs and metrics)
 Explain the basics of the tools that are used. The different environments that
 the tools are deployed in.
 
 - Logging - ELK (Elasticsearch, Logstash, Kibana)
 - Metrics - Prometheus + Grafana
+
+#### Logging
+
+1. Logstash index patterns.
+2. Logstash log retention.
+3. Logtstash deployment and communication.
+4. Kibana basic usage.
+
+#### Monitoring
+
+1. Metrics collection through Prometheus.
+2. Instrumentation.
+3. Health of deployment.
 
 #### Setup
 
